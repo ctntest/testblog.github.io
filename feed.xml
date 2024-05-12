@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <author></author>
-    <title></title>
+    <author>tester</author>
+    <title>Test Blog</title>
     
     <entry>
         <title>Test short text message with some thoughts</title>
