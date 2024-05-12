@@ -5,10 +5,10 @@
     <title>Test Blog</title>
     
     <entry>
-        <title>Test short text message with some thoughts</title>
-        <link href="https://blog.mtxvp.com/short-test-message/"/>
-        <content type="html">Test short text message with some thoughts</content>
-        <published>2023-09-02T10:20:00</published>
+        <title>Test images article</title>
+        <link href="https://blog.test.com/abcdimages/"/>
+        <content type="html">Test images article</content>
+        <published>2024-05-12T20:35:00</published>
     </entry>
     
 </feed>
