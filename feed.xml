@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <author></author>
+    <title></title>
+    
+    <entry>
+        <title>Test short text message with some thoughts</title>
+        <link href="https://blog.mtxvp.com/short-test-message/"/>
+        <content type="html">Test short text message with some thoughts</content>
+        <published>2023-09-02T10:20:00</published>
+    </entry>
+    
+</feed>
