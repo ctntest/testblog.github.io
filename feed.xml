@@ -4,11 +4,4 @@
     <author>tester</author>
     <title>Test Blog</title>
     
-    <entry>
-        <title>Test images article</title>
-        <link href="https://blog.test.com/abcdimages/"/>
-        <content type="html">Test images article</content>
-        <published>2024-05-12T20:35:00</published>
-    </entry>
-    
 </feed>
