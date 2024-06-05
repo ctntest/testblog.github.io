@@ -4,4 +4,18 @@
     <author>tester</author>
     <title>Test Blog</title>
     
+    <entry>
+        <title>Quebec City - Fortifications & Citadelle</title>
+        <link href="https://https://ctntest.github.io/testblog.github.io//images-quebec-city-fortifications-and-citadelle/"/>
+        <content type="html">Quebec City - Fortifications & Citadelle</content>
+        <published>2024-04-17T21:30:00</published>
+    </entry>
+    
+    <entry>
+        <title>Test short text message with some thoughts</title>
+        <link href="https://https://ctntest.github.io/testblog.github.io//short-test-message/"/>
+        <content type="html">Test short text message with some thoughts</content>
+        <published>2023-09-02T10:20:00</published>
+    </entry>
+    
 </feed>
